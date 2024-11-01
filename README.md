@@ -30,3 +30,13 @@ Meine Hilfestellungen werden YouTube, ChatGPT, PowerPoints und so weiter sein.
 
 
 Heute habe ich viel progressiert bei Modul 320. Ich habe abstrakte Klassen gut anwenden können und 80% von Polymorphismus. Kapselung war auch okay und ich finde ich habe eine gute Basis von OOP. Natürlich muss viel mehr gearbeitet werden und ich finde ich werde es bis zum Test ein gutes Verständnis bekommen.
+
+
+## 08.11.2024
+
+Heute werde ich AWS anschauen und genau sehen, was es ist und was die verschiedenen Funktionen sind. Wir haben es schon einigermassen angeschaut und jetzt möchte ich es gut verstehen können. Im Modul 294 wird noch Docker verwendet und das muss ich so einstellen, dass es schlussendlich funktionert. Da ich es schon einmal gemacht habe, denke ich, dass es nicht schwierig wird.
+
+- [ ] AWS und Funktionen
+- [ ] Docker einstellen
+
+Meine Hilfestellungen werden YouTube, ChatGPT, PowerPoints und so weiter sein.
