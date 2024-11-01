@@ -20,3 +20,7 @@ Es ist immernoch meine höchste Priorität, Modul 320 beherrschen zu können. Al
 - [ ] abstrakte Klassen
 
 Meine Hilfestellungen werden YouTube, ChatGPT, PowerPoints und so weiter sein.
+
+Vorstellungen Modulnoten:
+M294 = 5.5
+M346 = 5.5
