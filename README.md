@@ -21,6 +21,8 @@ Es ist immernoch meine höchste Priorität, Modul 320 beherrschen zu können. Al
 
 Meine Hilfestellungen werden YouTube, ChatGPT, PowerPoints und so weiter sein.
 
-Vorstellungen Modulnoten:
-M294 = 5.5
-M346 = 5.5
+
+|         | Vorstellungen Modulnoten           |
+| ------------- |:-------------:|
+| Modul 346     | 5.5 |
+| Modul 294      | 5.5      |
