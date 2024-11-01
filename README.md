@@ -22,9 +22,11 @@ Es ist immernoch meine höchste Priorität, Modul 320 beherrschen zu können. Al
 Meine Hilfestellungen werden YouTube, ChatGPT, PowerPoints und so weiter sein.
 
 
-Heute habe ich viel progressiert bei Modul 320. Ich habe abstrakte Klassen gut anwenden können und 80% von Polymorphismus. Kapselung war auch okay und ich finde ich habe eine gute Basis von OOP. Natürlich muss viel mehr gearbeitet werden und ich finde ich werde es bis zum Test ein gutes Verständnis bekommen.
 
 |         | Vorstellungen Modulnoten           |
 | ------------- |:-------------:|
 | Modul 346     | 5.5 |
 | Modul 294      | 5.5      |
+
+
+Heute habe ich viel progressiert bei Modul 320. Ich habe abstrakte Klassen gut anwenden können und 80% von Polymorphismus. Kapselung war auch okay und ich finde ich habe eine gute Basis von OOP. Natürlich muss viel mehr gearbeitet werden und ich finde ich werde es bis zum Test ein gutes Verständnis bekommen.
