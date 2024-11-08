@@ -41,3 +41,13 @@ Heute werde ich AWS anschauen und genau sehen, was es ist und was die verschiede
 - [ ] Wissen Create- und Read-Operationen erfrischen
 
 Meine Hilfestellungen werden YouTube, ChatGPT, PowerPoints und so weiter sein.
+
+## 15.11.2024
+
+Heute werde ich Modul 450 anfangen zu überarbeiten. Es geht um Applikationen testen. Ich habe es schon ein mal gehabt, also kann es nicht schwerer sein als letztes Mal. Ich werde heute noch für Modul 294 die letzten Teile von CRUD erlernen und anwenden probieren. Heute werde ich ,zusammengefasst, das Modul 450 anfangen zu überarbeiten und für CRUD Update und Delete anschauen.
+
+- [ ] AWS und Funktionen weiterlernen
+- [ ] Modul 450 pptx überarbeiten
+- [ ] Wissen Update und Delete erfrischen
+
+Meine Hilfestellungen werden YouTube, ChatGPT, PowerPoints und so weiter sein.
