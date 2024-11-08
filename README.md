@@ -15,7 +15,7 @@ _**Das heisst:**_
 
 Es ist immernoch meine höchste Priorität, Modul 320 beherrschen zu können. Also wird mein heutiger Tag auch wie folgt gestaltet:
 
-- [ ] Kapselung
+- [x] Kapselung
 - [x] Polymorphismus
 - [x] abstrakte Klassen
 
@@ -34,9 +34,10 @@ Heute habe ich viel progressiert bei Modul 320. Ich habe abstrakte Klassen gut a
 
 ## 08.11.2024
 
-Heute werde ich AWS anschauen und genau sehen, was es ist und was die verschiedenen Funktionen sind. Wir haben es schon einigermassen angeschaut und jetzt möchte ich es gut verstehen können. Im Modul 294 wird noch Docker verwendet und das muss ich so einstellen, dass es schlussendlich funktionert. Da ich es schon einmal gemacht habe, denke ich, dass es nicht schwierig wird.
+Heute werde ich AWS anschauen und genau sehen, was es ist und was die verschiedenen Funktionen sind. Wir haben es schon einigermassen angeschaut und jetzt möchte ich es gut verstehen können. Im Modul 294 wird noch Docker verwendet und das muss ich so einstellen, dass es schlussendlich funktionert. Da ich es schon einmal gemacht habe, denke ich, dass es nicht schwierig wird. Ich müsste noch mein Wissen für Modul 294 C.R.U.D. erfrischen, weil das ein wichtiger Block des Modules ist. Deswegen werde ich heute Create und Read anschauen.
 
 - [ ] AWS und Funktionen
 - [ ] Docker einstellen
+- [ ] Wissen Create- und Read-Operationen erfrischen
 
 Meine Hilfestellungen werden YouTube, ChatGPT, PowerPoints und so weiter sein.
