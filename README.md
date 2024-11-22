@@ -51,3 +51,21 @@ Heute werde ich Modul 450 anfangen zu überarbeiten. Es geht um Applikationen te
 - [ ] Wissen Update und Delete erfrischen
 
 Meine Hilfestellungen werden YouTube, ChatGPT, PowerPoints und so weiter sein.
+
+## 22.11.2024
+
+Heute ist das hauptsächliche Ziel an Modul 294 zu arbeiten, weil nächste Woche der letzte Tag des Modules ist und dann die LB anfangt. Es ist wichtig, dass ich alles verstehe, bevor die LB Zeit anfängt, sodass ich keine Schwierigkeiten habe. Das heisst alles was CRUD und HTTP angeht, muss angeschaut werden. 
+
+- [ ] CRUD
+- [ ] HTTP
+
+Meine Hilfestellungen werden YouTube, ChatGPT, PowerPoints und so weiter sein.
+
+## 29.11.2024
+
+Heute werde ich weiter an Modul 294 arbeiten, da die LB Zeit angefangen hat und ich einbisschen zurück mit dem Stoff liege. Ich möchte heute viel an die LB arbeiten, sodass ich nicht in Stress gerate. Heutige Ziele sind also weiter an CRUD und HTTP zu arbeiten.
+
+- [ ] Weiter CRUD
+- [ ] Weiter HTTP
+
+Meine Hilfestellungen werden YouTube, ChatGPT, PowerPoints und so weiter sein.
