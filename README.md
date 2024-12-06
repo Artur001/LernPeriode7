@@ -74,7 +74,7 @@ Meine Hilfestellungen werden YouTube, ChatGPT, PowerPoints und so weiter sein.
 
 Heute ist es das Ziel, dass ich eine gute Übersicht der neuen Module bekomme, da diese Woche das Modul 346 abgegeben wurde und nächste Woche das Modul 294 zur Abgabe angesagt ist. Es ist sehr viel einfacher, wenn man eine Übersicht hat.
 
-- [ ] Modul 346 abschliessen
+- [ ] Modul 294 (Basic Crud operationen machen)
 - [ ] 2 neue Module übersicht erschaffen
 
 Meine Hilfestellungen werden YouTube, ChatGPT, PowerPoints und so weiter sein.
