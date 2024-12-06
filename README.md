@@ -70,7 +70,7 @@ Heute werde ich weiter an Modul 294 arbeiten, da die LB Zeit angefangen hat und 
 
 Meine Hilfestellungen werden YouTube, ChatGPT, PowerPoints und so weiter sein.
 
-## 06.11.2024
+## 06.12.2024
 
 Heute ist es das Ziel, dass ich eine gute Übersicht der neuen Module bekomme, da diese Woche das Modul 346 abgegeben wurde und nächste Woche das Modul 294 zur Abgabe angesagt ist. Es ist sehr viel einfacher, wenn man eine Übersicht hat.
 
