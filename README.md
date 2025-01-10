@@ -78,3 +78,28 @@ Heute ist es das Ziel, dass ich eine gute Übersicht der neuen Module bekomme, d
 - [ ] 2 neue Module übersicht erschaffen
 
 Meine Hilfestellungen werden YouTube, ChatGPT, PowerPoints und so weiter sein.
+
+## 13.12.2024
+
+Heute ist das Ziel, Modul 294 so weit wie möglich voranzuarbeiten und alles schwierige abschliessen. Das heisst ich müsste die CRUDs fertigstellen für die einzelnen Artikeln und einzelnen Sortimenten. Es ist ein bisschen komplex, aber es wird nicht so schwer sein, wenn ich genug ChatGPT und Videos benutze.
+
+- [ ] Modul 294 voranarbeiten
+
+Meine Hilfestellungen werden YouTube, ChatGPT, PowerPoints und so weiter sein.
+
+## 20.12.2024
+
+Heute ist es das Ziel, dass ich für Modul 346 die Präsentationen anschaue und vor den Ferien noch das Video als Hausaufgabe anschauen. Für Modul 450 müsste ich noch Videos zu User-Tests anschauen und versuchen zu implementieren.
+
+- [ ] Modul 346 Videos anschauen
+- [ ] Modul 450 User-Tests studieren
+
+Meine Hilfestellungen werden YouTube, ChatGPT, PowerPoints und so weiter sein.
+
+## 10.01.2024
+
+Heute ist das Hauptziel Modul 450 abschliessen, da Montagnachmittag die Abgabe ist und an das wird am meisten heute gearbeitet.
+
+- [ ] Modul 450 abschliessen
+
+Meine Hilfestellungen werden YouTube, ChatGPT, PowerPoints und so weiter sein.
